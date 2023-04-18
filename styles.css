@@ -1,0 +1,37 @@
+.info-parfum {
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    align-items: center;
+    margin: auto;
+    background-color: white;
+    border-right: 1px;
+    justify-content: space-between;
+    gap: 15px;
+  }
+
+  h1 {
+    font-size: 3.5em;
+  }
+  p {
+    font-size: 1.1em;
+  }
+  #prix {
+    text-decoration:line-through;
+    font-size: 0.01 em;
+    color: black;
+  }
+  .btn1{
+    background-color: rgb(25, 95, 29);
+    border-radius: 10px;
+    padding: 3px 5px;
+
+  }
+  #svgpic{
+    width: 8%;
+    height:8%;
+  }
+  h2{
+    color:  green;
+    font-family:'Times New Roman', Times, serif
+  }
